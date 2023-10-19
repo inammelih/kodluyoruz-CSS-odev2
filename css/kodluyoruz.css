@@ -1,0 +1,31 @@
+.box{
+    background-color: rgb(230, 226, 226);
+    width: auto;
+    height: auto;
+    margin: 0 49px 0 100px;
+}
+
+.box-2{
+    background-color: #7EE5DA;
+    width: 37%;
+    height: 140px;
+    margin: 2px 2px 0 100px;
+    float: left;
+}
+
+.box-3{
+    background-color: #70CCC2;
+    width: 15%;
+    height: 140px;
+    margin: 2px 2px 0 0;
+    float: left;
+}
+
+.box-4{
+    background-color: #62B3AA;
+    width: 736px;
+    height: 140px;
+    margin: 2px 0;
+    float: left;
+    padding-bottom: px;
+}
